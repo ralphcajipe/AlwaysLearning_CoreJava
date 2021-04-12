@@ -9,6 +9,6 @@ class InstantiatingAClass {
         // Invalid
         InstantiatingAClass test = new test(); // wrong constructor name
         InstantiatingAClass test = new InstantiatingAClass; // no parentheses
-        test InstantiatingAClass = new test; // object came first, very wrong
+        test InstantiatingAClass = new test; // object name came first, very wrong
     }
 }
