@@ -1,5 +1,5 @@
 /**
- * AccessingClassMethod
+ * Accessing Class Method
  */
     class ClassMethod {
 
