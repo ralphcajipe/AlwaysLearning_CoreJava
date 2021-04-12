@@ -9,8 +9,8 @@ class RedundantHandlingException {
         catch (Exception e) { 
             System.out.println("2. Exception catched it.");
         } 
-        // Compiler will detect this as error because 
-        // it is already handled by super class Exception
+        // Compiler will detect this an error because 
+        // it is already catched/handled by super class Exception
         catch (ArithmeticException e) {
             System.out.println("3. Arithmetic Exception catched it.");
         } 
