@@ -1,0 +1,3 @@
+class InheritingFromAClass extends Certification {
+    
+}

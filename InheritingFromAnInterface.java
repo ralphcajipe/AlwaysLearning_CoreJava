@@ -1,0 +1,3 @@
+class InheritingFromAnInterface implements Certification {
+    
+}
