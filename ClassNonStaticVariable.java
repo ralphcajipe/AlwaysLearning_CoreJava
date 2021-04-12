@@ -1,5 +1,5 @@
 /**
- * Accessing Class Non Static Variable
+ * Accessing Class Non-Static Variable
  */
     class ClassNonStaticVariable {
     int b = 2;
